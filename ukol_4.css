@@ -1,0 +1,50 @@
+body {
+	background-color: rgb(255, 255, 204);
+
+	
+	}
+h2, h1 {
+	text-align: center;
+	border: solid;
+	border-right: 10px solid rgb(179, 60, 0);
+    background-color: rgb(204, 224, 255);
+    border-left: 10px solid rgb(179, 60, 0);
+}
+h1 {
+	text-transform: uppercase
+}
+.autor, .zdroj, .zanr {
+	text-decoration: overline;
+	font-family: sans-serif;
+	text-align: center
+}
+blockquote {
+	font-style: oblique;
+}
+p {
+	text-align: justify;
+    text-justify: inter-word;
+    color: black
+    font-weight: normal;
+    margin: 20px;
+    font-size: 1.1em;
+    padding: 5px;
+}
+i {
+	line-height: 200%;
+}
+footer {
+	text-decoration: overline;
+	font-family: sans-serif;
+}
+#soutez {
+	background-image: url(devil-1081431_1280.png);
+	float: center;
+}
+ol {
+	background-color:rgba(209, 209, 224, 0.6);
+	border: solid;
+}
+#zaver {
+	font-size: 1.2em;
+}
